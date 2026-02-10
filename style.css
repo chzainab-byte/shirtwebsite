@@ -1,0 +1,234 @@
+
+body{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+    
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 5px;
+    
+    
+}
+.navbar{
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    align-items: center;
+    
+}
+
+.btn1{
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color:chartreuse;
+    color:black;
+    border: 3px solid black;
+    cursor: pointer;
+}
+.circle{
+    background-color: #000;
+    color: #fff;
+    border-radius: 50%;
+    padding: 6px;  
+    
+}
+
+.hero{
+   background-color: chartreuse;
+   justify-content:space-between;
+   text-align: center;
+   padding: 150px 80px;
+   border-radius: 25px;
+   margin: 10px 30px;
+
+}
+.content h2{
+    font-size: 50px;
+    margin: 10px;
+}
+.content h4{
+    font-size: 30px;
+    margin: 8px;
+}
+
+.btn2{
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.link{
+    text-decoration: underline;
+    
+}
+
+.bottomline{
+    padding-top: 80px;
+    border-bottom: 1px solid black;
+}
+
+.features{
+    padding: 10px;
+    padding-bottom: 70px;
+}
+
+.flist{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    justify-content: flex-start;
+}
+
+.fcard{
+   text-align: center;
+   flex: 1;
+   min-width: 150px;
+}
+
+.fcard i {
+    font-size: 36px;
+    color: #8dc63f
+}
+
+.fcard p {
+    color: #777;
+}
+
+
+.fcard h5 {
+  font-size: 16px;
+  margin-bottom: 5px;
+  
+}
+
+.Ourfeatures h4{
+    font-size: 30px;
+ 
+}
+
+.outcon{
+    background-color: #000;
+    color: #fff;
+    border-radius: 35px;
+    margin: 30px 50px;
+    padding: 10px 30px;
+    
+}
+
+.incont{
+    display: flex;
+    gap: 30px;
+    padding-bottom: 100px;
+    
+}
+
+.leftcont, .rightcont{
+   flex: 1;
+   background-color: white;
+   border-radius: 15px;
+   padding: 20px;
+   color: #000;
+}
+
+.leftcont img {
+    border-radius: 15px;
+    margin-bottom: 30px;
+
+}
+
+.h4{
+   border-bottom: 2px solid black;
+}
+
+.btn3,.btn5{
+    background-color: #fff;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    gap: 20px;
+   
+}
+
+.btn4, .btn6{
+   border-radius: 20px;
+    padding: 10px 20px;
+    background-color:chartreuse;
+    color:black;
+    border: 3px solid black;
+    cursor: pointer;
+
+}
+
+.rightcont h6{
+
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.leftcont h3{
+    font-size: 70px;
+}
+
+.rightcont p{
+    font-size: 30px;
+}
+
+.leftcont .btn3{
+    margin-right: 50%;
+}
+
+.rightcont .btn5{
+    margin-right: 55%;
+    
+}
+
+
+
+.out {
+     padding: 60px 50px;
+    
+
+}
+
+.aboutus{
+    display: flex;
+    gap: 40px;
+}
+
+.aboutus h2{
+    
+    flex: 1;
+    font-size: 40px;
+    text-align: end;
+}
+
+.aboutus p{
+    border-left: 2px solid black;
+    padding-left: 8px;
+    flex: 2;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
